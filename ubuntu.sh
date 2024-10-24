@@ -22,14 +22,6 @@ file mogus.txt
 neofetch
 useradd impostor
 
-echo "let's play ping pong"
-ping pong.ru
-wget -m pong.ru 
-wget -m google.com
-wget -m github.com
-wget -m bing.com
-wget -m pornhub.com
-
 echo "lets remove some bloat!"
 sudo apt remove *gnome*
 sudo apt remove *kde*
@@ -40,3 +32,76 @@ sudo apt autoremove
 neofetch
 neofetch
 
+uptime
+neofetch
+dir -a /
+uptime
+date
+
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+echo "sus"
+
+useradd pornlover
+
+sudo apt install *a*
+sudo apt install *p*
+flatpak install *a*
+
+useradd mogus
+useradd notimposter
+uptime
+neofetch
+
+echo "let's play ping pong"
+wget -m pong.ru 
+wget -m google.com
+wget -m github.com
+wget -m bing.com
+wget -m pornhub.com
+ping pong.ru
